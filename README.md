@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner / typing intro -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=NoctisNex&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=May%20the%20bridges%20I%20burn%20light%20the%20way&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=NoctisNex&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20clean%2C%20responsive%20web%20experiences&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%8C%90;Python+Tinkerer+%F0%9F%90%8D;Linux+Enjoyer+%F0%9F%90%A7;Based+in+Z%C3%BCrich%2C+Switzerland+%F0%9F%87%A8%F0%9F%87%AD" alt="Typing SVG" />
@@ -19,7 +19,7 @@ alias:     NoctisNex
 location:  Zürich, Switzerland 🇨🇭
 work:      Gesundheitswelt Zollikerberg
 focus:     Web development · automation · clean UI
-motto:     "May the bridges I burn light the way"
+motto:     "Clean code, thoughtful design, always learning"
 ```
 
 - 🌐 &nbsp;I build responsive, modern web experiences and useful little tools.
@@ -113,7 +113,7 @@ motto:     "May the bridges I burn light the way"
 
 <br/><br/>
 
-*“May the bridges I burn light the way.”* 🥀
+*“Clean code, thoughtful design, always learning.”*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%" alt="footer"/>
 
