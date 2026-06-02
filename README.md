@@ -18,12 +18,12 @@ name:      Robin Schmid
 alias:     NoctisNex
 location:  Zürich, Switzerland 🇨🇭
 work:      Gesundheitswelt Zollikerberg
-focus:     Web development · automation · clean UI
+focus:     Web development, automation, clean UI
 motto:     "Clean code, thoughtful design, always learning"
 ```
 
 - 🌐 &nbsp;I build responsive, modern web experiences and useful little tools.
-- 🐍 &nbsp;Comfortable in Python — bots, scripts, automation.
+- 🐍 &nbsp;Comfortable in Python for bots, scripts, automation.
 - 🐧 &nbsp;Daily-driving Linux and always breaking it for fun.
 - 📫 &nbsp;Reach me through any badge below.
 
@@ -65,10 +65,10 @@ motto:     "Clean code, thoughtful design, always learning"
 
 </div>
 
-> **Robin-Domain** — Personal portfolio with responsive design, interactive devblog & modern UI.
-> **Discord-Bot** — Music streaming, moderation tools & interactive commands.
-> **Passcheck-Standalone** — Self-contained password evaluator with clear scoring.
-> **godbreakers-wiki** — Community wiki for the game *Godbreakers*.
+> **Robin-Domain**: Personal portfolio with responsive design, interactive devblog and modern UI.
+> **Discord-Bot**: Music streaming, moderation tools and interactive commands.
+> **Passcheck-Standalone**: Self-contained password evaluator with clear scoring.
+> **godbreakers-wiki**: Community wiki for the game *Godbreakers*.
 
 ---
 
@@ -113,7 +113,7 @@ motto:     "Clean code, thoughtful design, always learning"
 
 <br/><br/>
 
-*“Clean code, thoughtful design, always learning.”*
+*"Clean code, thoughtful design, always learning."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%" alt="footer"/>
 
