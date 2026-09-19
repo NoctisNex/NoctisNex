@@ -23,7 +23,7 @@ noctisnex@voidshell:~$ cat about.txt
 name      robin / noctisnex
 location  zürich, switzerland
 focus     small tools & automation
-afk       probably playing an fps
+afk       probably gaming or reading manga
 ```
 
 <p align="center">
